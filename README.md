@@ -17,7 +17,7 @@
 
 <div display="flex">
   <a href="https://yjs.dev">
-  <img src="https://avatars.githubusercontent.com/u/45042178?s=48&v=4" width="50px" alt="yjs"/>
+  <img src="https://avatars.githubusercontent.com/u/45042178?s=48&v=4" width="30px" alt="yjs"/>
   </a>
 </div>
 
